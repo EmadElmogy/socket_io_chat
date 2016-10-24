@@ -2,14 +2,20 @@
   "name": "socket-chat-example",
   "version": "0.0.1",
   "description": "example chat",
+  "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git://github.com/EmadElmogy/socket_io_chat.git"
   },
   "license": "ISC",
+  "keywords": [
+    "node",
+    "chat",
+    "system"
+  ],
   "dependencies": {
     "express": "4.10.2",
     "socket.io": "1.2.0"
