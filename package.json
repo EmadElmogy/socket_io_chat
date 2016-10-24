@@ -2,6 +2,11 @@
   "name": "socket-chat-example",
   "version": "0.0.1",
   "description": "example chat",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "license": "ISC",
   "dependencies": {
     "express": "4.10.2",
     "socket.io": "1.2.0"
